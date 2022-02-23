@@ -1,0 +1,474 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse concerning unction and washing of feet proving that they be not instituted sacraments or ordinances in the churches by Isaac Chauncy ...</title>
+            <author>Chauncy, Isaac, 1632-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32761</idno>
+            <idno type="STC">Wing C3747</idno>
+            <idno type="STC">ESTC R6226</idno>
+            <idno type="EEBO-CITATION">13501635</idno>
+            <idno type="OCLC">ocm 13501635</idno>
+            <idno type="VID">99775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99775)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 784:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse concerning unction and washing of feet proving that they be not instituted sacraments or ordinances in the churches by Isaac Chauncy ...</title>
+                  <author>Chauncy, Isaac, 1632-1712.</author>
+               </titleStmt>
+               <extent>30, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Hiller ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement on p. [1]</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Unction --  Early works to 1800.</term>
+               <term>Foot washing (Rite) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99775:1"/>
+            <pb facs="tcp:99775:1"/>
+            <p>A DISCOURSE CONCERNING UNCTION, AND Waſhing of Feet. PROVING That They be not Inſtituted Sacraments, or Ordinances in the Churches.</p>
+            <p>By <hi>Iſaac Chauncy,</hi> M. A.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Nath. Hiller,</hi> at the <hi>Prince</hi>'s <hi>Arms</hi> in <hi>Leaden-Hall-Street,</hi> over againſt St. <hi>Mary Axe,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:99775:2"/>
+            <pb n="3" facs="tcp:99775:2"/>
+            <head>A DISCOURSE Concerning <g ref="char:V">Ʋ</g>nction, and Waſhing of Feet.</head>
+            <div n="1" type="section">
+               <p>
+                  <label>Sect. 1.</label> IT hath bin, and yet is a matter of Enquiry in the Churches, Whether the Triplicity of Primitive Rites, viz. <hi>Impoſition of Hands, <g ref="char:V">Ʋ</g>nction</hi> and <hi>Waſhing of Feet,</hi> then in frequent Uſe, do yet remain <hi>Standing Ordinances</hi> by Divine Inſtitution?</p>
+               <p>Some think they be all ſo; but many judge only <hi>One</hi> ſo, <hi>viz. Impoſition of Hands,</hi> con<g ref="char:EOLhyphen"/>cerning which we Diſcours'd elſewhere.</p>
+               <p>Others take the other Two alſo to be ſuch; and indeed I do not ſee how any of the Three can be fairly excluded if any one be admitted. Therefore having ſeen great Reaſon to Exa<g ref="char:EOLhyphen"/>mine the grounds upon which ſuch Apprehen<g ref="char:EOLhyphen"/>ſions are built, leſt a Yoke ſhould be laid on the Churches which Chriſt never laid, and leſt in caſting off <hi>Antichriſtian Yokes</hi> we ſhould reject the obſervation of any thing which our Lord Jeſus Chriſt hath commanded; the two latter of the forementioned ſhall here be ſpoken to. And it's the firſt of the two, <hi>Anointing the ſick with Oil,</hi> which we are moſt concerned in, there having bin of late ſome<g ref="char:EOLhyphen"/>thing Publiſhed in the Defence of this Aſſer<g ref="char:EOLhyphen"/>tion,
+<pb n="4" facs="tcp:99775:3"/> 
+                  <hi>That Anointing the Sick with Oil is a stand<g ref="char:EOLhyphen"/>ing Ordinance to Confirm the Promiſe of Healing unto Church-Members.</hi>
+               </p>
+               <p>The Author whereof having deſervedly a Renowned Memorial among the Churches of Chriſt, his Miſtake in this Point (who ſo ſel<g ref="char:EOLhyphen"/>dom miſtook in Points of the higheſt Nature) might be of ill conſequence. Whether he ever intended the Publiſhing of the ſaid Pa<g ref="char:EOLhyphen"/>per, or ever practiſed according thereto, is much to be queſtioned; but it being now Pub<g ref="char:EOLhyphen"/>liſhed, it puts us upon a Neceſſity of ſpeaking ſomething to this Point, according to the light which is given us through God's Grace from his Word.</p>
+            </div>
+            <div n="2" type="section">
+               <div type="introduction">
+                  <p>
+                     <label>§. 2.</label> The Aſſertion is grounded on <hi>James</hi> 5.14. <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>&amp;c. Is any one among you weak, let him call for the Elders of the Church, and let them pray for him</hi> [here lieth the ſtreſs of the Command] <hi>anointing him with Oil</hi> [men<g ref="char:EOLhyphen"/>tioning this <hi>
+                        <g ref="char:V">Ʋ</g>nction</hi> as a known Circumſtance then in Uſe] <hi>in the Name of the Lord.</hi> Our Renowned Author here tells us, that the a<g ref="char:EOLhyphen"/>nointing here mentioned is not the anointing ſpoken of <hi>Mark</hi> 6.13. by which the Apoſtles healed through a Miraculous Gift. He ſhould have ſaid the <hi>kind</hi> of Healing was not the ſame; for the anointing was the ſame, and applied for the ſame general End, <hi>viz. Heal<g ref="char:EOLhyphen"/>ing.</hi> And he ſhould have told us where the Promiſe of Bodily-Healing is made peculiarly to Church-Members, and diſtinct from other good things promiſed, Spiritual and Tempo<g ref="char:EOLhyphen"/>ral. He ſaith afterward, the Promiſe is here, <hi>And he ſhall be healed:</hi> But is this beſtowed
+<pb n="5" facs="tcp:99775:3"/> diſtinctly and apart from <hi>forgiveneſs?</hi> Doth Healing come by Unction, and Forgiveneſs by Prayer? How comes the Promiſe of Health to have a Seal annexed, any more than the Promiſes of Riches, or a ſupply with Food and Raiment to a poor Saint; or the Promiſe of Honour to ſuch as ſuffer Reproach for Chriſt?</p>
+                  <p>His Arguments are as follows, and do tend to prove moſtly, That the <hi>
+                        <g ref="char:V">Ʋ</g>nction</hi> of <hi>James</hi> was not extraordinary.</p>
+               </div>
+               <div n="1" type="argument">
+                  <p>
+                     <label>Arg. 1.</label> 
+                     <hi>Anointing with Oil was joined</hi> [Jam. 5.14.] <hi>with the Elders Prayers, therefore it's a standing Ordinance.</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> 
+                     <hi>Non ſeq.</hi> For extraordinary actions in the Primitive Churches were joined with Prayer; As the chooſing an Apoſtle <hi>Acts</hi> 1. Doth it follow therefore, that to chooſe Apo<g ref="char:EOLhyphen"/>ſtles is a Standing Ordinance? and ſo was lay<g ref="char:EOLhyphen"/>ing Hands on the Seven Deacons, <hi>chap.</hi> 4. The actions of Elders or ordinary Chriſtians are all as to this under a general Command, <hi>Phil.</hi> 4.6.</p>
+               </div>
+               <div n="2" type="argument">
+                  <p>
+                     <label>Arg. 2.</label> 
+                     <hi>All Precepts in this Epistle concern the Church for ever; Therefore this.</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> The Antecedent wants proof, for one may not though the reſt may. 2. The <hi>Antecedent</hi> and <hi>Conſequent</hi> may be granted, and yet the <hi>Queſtion</hi> not concluded; for the Precept here (rightly underſtood) may concern the Church for ever.</p>
+               </div>
+               <div n="3" type="argument">
+                  <div n="1" type="subsection">
+                     <p>
+                        <label>Arg. 3.</label> 
+                        <hi>From the Perſons that were to be ſent to,</hi> viz. <hi>The Elders of the Church.</hi> 1. <hi>He ſaith not, ſend for men who had the Healing Gifts, but for the Elders of the Church.</hi>
+                     </p>
+                     <pb n="6" facs="tcp:99775:4"/>
+                     <p>
+                        <label>Anſ.</label> There was no need of ſaying other<g ref="char:EOLhyphen"/>wiſe then, as in the next Age, becauſe Elders had ordinarily healing Gifts, either extraor<g ref="char:EOLhyphen"/>dinarily, as the Apoſtles had, for they were indefinitely beſtowed on the Church, 1 <hi>Cor.</hi> 12.9. and therefore as on Brethren, ſo on Elders moſt eſpecially. Or Elders had ordina<g ref="char:EOLhyphen"/>ry healing Gifts, practiſed as Phyſicians, from the example of Chriſt and his Apoſtles, and therefore the Elders might rather than others be ſent for, having Abilities to heal the one way or the other.</p>
+                     <p>The Elders during the Apoſtolick Times, and afterward, from the Examples of Chriſt and his Apoſtles, exerciſed themſelves in healing the Sick, as well as in Preaching the Word, being qualified thereto by an extraordinary Gift, or by an ordinary acquired Gift and skill Medicinal; ſo <hi>Luke</hi> healed, and undoubtedly divers Elders.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <p>
+                        <label>2.</label> 
+                        <hi>Who were ſtanding Officers of a Church which was to continue?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> Though Elders and Churches were to continue, yet it follows not that what Gifts of Healing were in ſome, ſhould ſucceſſively con<g ref="char:EOLhyphen"/>tinue to all that were to follow.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <p>
+                        <label>3.</label> 
+                        <hi>The Elders in every Church had not that Gift.</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> That wants proof; its moſt likely the Elders in every Church at that time had ex<g ref="char:EOLhyphen"/>traordinary or ordinary Gifts, and if all had not, the Apoſtle may underſtand thoſe that had; or that the Elders ſhould come to aſſiſt by Prayer, whenever the Healer came to heal, and they ſuperviſing it, its ſpoken of, as though they did it.</p>
+                  </div>
+                  <div n="4" type="subsection">
+                     <pb n="7" facs="tcp:99775:4"/>
+                     <p>
+                        <label>4.</label> 
+                        <hi>The Gifts of Healing and Prophecy were va<g ref="char:EOLhyphen"/>riouſly beſtowed, as to thoſe that were not Apostles and Evangeliſts,</hi> 1 Cor. 12.8,9.</p>
+                     <p>
+                        <label>Anſ.</label> They might be ordinarily ſo, but it follows not that it was ſo always; there's no<g ref="char:EOLhyphen"/>thing ſaid to demonſtrate that they who had the gift of Prophecy, had not the gift of Heal<g ref="char:EOLhyphen"/>ing, for there's as much to prove that ſuch as had the gift of Prophecy, had not the gift of Tongues and Interpretation.</p>
+                  </div>
+               </div>
+               <div n="4" type="argument">
+                  <div n="1" type="subsection">
+                     <p>
+                        <label>Arg. 4.</label> 
+                        <hi>Is taken from the Perſons to be heal<g ref="char:EOLhyphen"/>ed.</hi> 1. <hi>If it had been extraordinary healing, it would have extended further, to Blind, Leaf, Dumb,</hi> &amp;c.</p>
+                     <p>
+                        <label>Anſ.</label> How doth it appear that it extends not to theſe; the Word <gap reason="foreign" resp="#OXF" extent="1 word">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> may take in any Sickneſs, Weakneſs, or Infirmity of Body; and we know that many ſo affected, as Deaf and Dumb, have been cured by Medicinal Re<g ref="char:EOLhyphen"/>medies?</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <p>
+                        <label>2.</label> 
+                        <hi>They were Members of the Church, not <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>believers.</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> The Members of the Church were moſt immediately and knowingly obliged; but un<g ref="char:EOLhyphen"/>doubtedly if an <hi>Extra</hi>-Eccleſian had ſent for the Elders of the Church upon the ſame ac<g ref="char:EOLhyphen"/>count, the Elders would have gone to him, prayed over him, and anointed him, as if he had been a Member, and the promiſe of Heal<g ref="char:EOLhyphen"/>ing, and Forgiveneſs of Sins, is as much to ſuch.</p>
+                  </div>
+                  <div type="subsection">
+                     <p>
+                        <hi>Miraculous Healing did extend to all ſorts, Be<g ref="char:EOLhyphen"/>lievers and <g ref="char:V">Ʋ</g>nbelievers.</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> Yea, ſo doth all bodily healing of any kind.</p>
+                     <pb n="8" facs="tcp:99775:5"/>
+                     <p>
+                        <hi>Yea, to them chiefly.</hi>
+                     </p>
+                     <p>
+                        <label>Anſw.</label> But if Unbelievers be underſtood in the largeſt Senſe, its a great miſtake, and con<g ref="char:EOLhyphen"/>tradicted by himſelf afterwards; for he ſaith, and its true, That all that were healed by the extraordinary Gift of Healing, were to have the Faith of Miracles. Its true, <hi>Tongues,</hi> and <hi>Prophecying,</hi> were for Conviction of the Truths of the Goſpel, and ſaid to be Signs, but the immediate effect of the Gift of Healing was to Heal; and its certain Chriſt and the Apoſtles did Heal both Believers and Unbelievers, and a ſecondary Effect and End was, for Convicti<g ref="char:EOLhyphen"/>on and Confirmation of Truth, <hi>Heb.</hi> 2.</p>
+                  </div>
+               </div>
+               <div n="5" type="argument">
+                  <p>
+                     <label>Arg. 5.</label> 
+                     <hi>Taken from the generality of the ex<g ref="char:EOLhyphen"/>tent of this Ordinance, If any amongſt you be Sick, which argues it not to be extraordinary; for when any were healed by an extraordinary Gift, it was by a Faith of Miracles concurring.</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> Then they were not Unbelievers in the largeſt Senſe; but when a Gift of Healing is in the Church, the call to reſort to it is inde<g ref="char:EOLhyphen"/>finite, and the call to wait upon God for any Good, is a call to exerciſe that Faith which is ſuitable to thoſe Ways and Means God calls Men to the uſing of.</p>
+               </div>
+               <div n="6" type="argument">
+                  <p>
+                     <label>Arg. 6.</label> 
+                     <hi>From the Means appointed,</hi> Oil, <hi>now the extraordinary Gift of Healing was not confined to Oil,</hi> &amp;c.</p>
+                  <p>
+                     <label>Anſ.</label> Its true, it was not, but being Oil was uſed in extraordinary Healing ſometimes, why might it not here alſo in the ſame manner?</p>
+               </div>
+               <div n="7" type="argument">
+                  <p>
+                     <label>Arg. 7.</label> 
+                     <hi>From the generality of the Command,</hi> [the ſame Argument with the Firſt, but fol<g ref="char:EOLhyphen"/>lowed a little otherwiſe] <hi>that if extraordi<g ref="char:EOLhyphen"/>nary
+<pb n="9" facs="tcp:99775:5"/> Gifts were meant, then none ſhould have died.</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> Why will this follow any more than in Chriſt's and the Apoſtles times? And yet it was free for all to reſort to them, none was refuſed, as we read of, that came or ſent.</p>
+               </div>
+               <div type="conclusion">
+                  <p>None of theſe Arguments conclude the Que<g ref="char:EOLhyphen"/>ſtion, <hi>That its a ſtanding Inſtitution;</hi> for they all run upon this Suppoſition, That the <hi>
+                        <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>ction</hi> mentioned by the Apoſtle <hi>James,</hi> was ei<g ref="char:EOLhyphen"/>ther an extraordinary Gift, or it was a Stand<g ref="char:EOLhyphen"/>ing Inſtitution; but it was no extraordinary Gift, therefore a ſtanding Inſtituted Ordi<g ref="char:EOLhyphen"/>nance, and the <hi>minor</hi> he proves by theſe Seven Arguments; how weak they are in that regard we have made appear; ſo that for all that hath been ſaid, by that worthy Man, it might be an <hi>extraordinary Gift</hi> that is here intended. But we alſo deny the <hi>Disjunction,</hi> and ſay there may a third Reaſon be aſſigned, that's intended by the Apoſtle, as we ſhall ſhew anon.</p>
+               </div>
+            </div>
+            <div n="3" type="section">
+               <div type="introduction">
+                  <p>
+                     <label>§ 3.</label> Our Learned Author propoſeth divers <hi>Objections,</hi> and returns <hi>Anſwers,</hi> which we pro<g ref="char:EOLhyphen"/>ceed to <hi>reply</hi> to.</p>
+               </div>
+               <div n="1" type="objection">
+                  <p>
+                     <label>
+                        <hi>Obj.</hi> 1.</label> This is to make more Sacraments than two. Which he <hi>Anſwers</hi> by way of <hi>Con<g ref="char:EOLhyphen"/>ceſſion, only diſtinguiſhing betwixt Seals of the Co<g ref="char:EOLhyphen"/>venant of Grace, and Seals of other Promiſes.</hi>
+                  </p>
+                  <p>
+                     <label>Reply.</label> There are no Promiſes made even of outward good Things to God's Children but in Chriſt Jeſus, and contained in the Covenant of Grace, and there needs no other Seals but what are Seals to <hi>that.</hi> Circumciſion Sealed the Promiſe of <hi>Chriſt</hi> to <hi>Abraham,</hi> and all the Promi<g ref="char:EOLhyphen"/>ſes of the Land of <hi>Canaan,</hi> and of External Bleſ<g ref="char:EOLhyphen"/>ſings
+<pb n="10" facs="tcp:99775:6"/> therein. <hi>He inſtanceth in the Rainbow, Gen.</hi> 9.11,12, <hi>&amp;c.</hi> But that was God's confirm<g ref="char:EOLhyphen"/>ing Seal of the Covenant of Grace to <hi>Noah,</hi> and of an External Good promiſed to the <hi>Church,</hi> and to the <hi>World,</hi> for the ſake of the <hi>Church,</hi> and accordingly applied by the Prophet <hi>Iſaiah</hi> to the Covenant of Grace, as a Confir<g ref="char:EOLhyphen"/>ming Sign to us.</p>
+                  <p>But what is this Inſtance to our purpoſe? Whatever the Rainbow was, it was no Inſti<g ref="char:EOLhyphen"/>tuted Church Ordinance, and cannot be called a <hi>Sacrament;</hi> for that is ſuch a Sign and Seal as is Inſtituted by Chriſt for our Obedience thereto, wherein by ſome Acts of ours appoin<g ref="char:EOLhyphen"/>ted by Chriſt, we ſhew forth ſome Spiritual Thing that our Faith is exerciſed on thereby.</p>
+               </div>
+               <div n="2" type="objection">
+                  <p>
+                     <label>
+                        <hi>Obj.</hi> 2.</label> If it be a Seal its of Remiſſion of Sins; for that is ſpoken of in the Text by the Apoſtle.</p>
+                  <p>
+                     <label>Anſ.</label> 
+                     <hi>Remiſſion of Sins there, is not that gene<g ref="char:EOLhyphen"/>ral and eternal Forgiveneſs promiſed in the Cove<g ref="char:EOLhyphen"/>nant of Grace, but the taking away of a temporary Guilt.</hi>
+                  </p>
+                  <p>
+                     <label>Repl.</label> But is there any ſaving Remiſſion but what belongs to the Covenant of Grace? And muſt there be one Seal for Eternal Remiſſion, and another for Temporary? If a Seal of Re<g ref="char:EOLhyphen"/>miſſion muſt be carried to the Sick, it makes much to juſtifie a Popiſh Practice in carrying the <hi>Lord's Supper</hi> to them. It is true, there is a Forgiveneſs ſpoken of in Scripture, which is only not to puniſh with Temporal Puniſhments, and is not Saving, as to the Soul, as <hi>Pſal.</hi> 78.38. And there's no Seal as I know of, belong<g ref="char:EOLhyphen"/>ing to ſuch a Temporal and Negative Salva<g ref="char:EOLhyphen"/>tion
+<pb n="11" facs="tcp:99775:6"/> properly conſidered, remaining as an Or<g ref="char:EOLhyphen"/>dinance in the Church.</p>
+               </div>
+               <div n="3" type="objection">
+                  <p>
+                     <label>
+                        <hi>Obj.</hi> 3.</label> All Sacraments are Seals to abſolute Promiſes; and when rightly uſed in Faith, have certainly their effect: But this hath not, for ſo none ſhould dye who in Faith ſhould uſe it.</p>
+                  <p>
+                     <label>Anſ.</label> 
+                     <hi>True, all Sacraments of the Covenant of Grace are ſuch, — but yet God may have ap<g ref="char:EOLhyphen"/>pointed another Seal for the Confirmation of the Promiſes of outward Mercies: — Of this nature is the Ordinance of Impoſition of Hands.</hi>
+                  </p>
+                  <p>
+                     <label>Repl.</label> We have no ground to believe that God hath appointed any other Seals than ſuch as belong to the Covenant of Grace, which He hath annexed thereto by his Inſtitution. He inſtanceth in <hi>Impoſition of Hands, which he ſaith is a Sacrament for increaſe of Gifts.</hi> But, 1. Was it not uſed at firſt for <hi>beſtowing</hi> Gifts? How comes it now to be changed from the firſt Intention? 2. Whatever Sacrament is for <hi>en<g ref="char:EOLhyphen"/>creaſe</hi> is to be often repeated, but ſo is not Im<g ref="char:EOLhyphen"/>poſition of Hands, according to the zealouſeſt Aſſertors thereof. 3. Sacraments, as Signs, hold forth and ſignifie, by way of Symbol, al<g ref="char:EOLhyphen"/>ways ſome ſpiritual and inward Grace; we never find they terminate upon common Gifts, and corporeal Benefits, and we read of a Sa<g ref="char:EOLhyphen"/>crament for encreaſe of <hi>Grace,</hi> but none for encreaſe of <hi>Gifts.</hi> 4. Why ſhould not Unction be for encreaſe of <hi>Health,</hi> as well as Impoſition of Hands for encreaſe of <hi>Gifts,</hi> and ſo to have a double uſe for Recovery of Health, and en<g ref="char:EOLhyphen"/>creaſe or continuance of it after recovery? 5. What is there in Impoſition of Hands to encreaſe Gifts? Is it <hi>naturally</hi> ſo, or by <hi>Inſti<g ref="char:EOLhyphen"/>tution?</hi>
+                     <pb n="12" facs="tcp:99775:7"/> None can ſay the former; if the latter, there's a <hi>Promiſe</hi> annexed for encreaſe of Gifts, and then the oftner uſed, the more Gifts will be encreaſed; but we find no ſuch <hi>Promiſe</hi> an<g ref="char:EOLhyphen"/>nexed, neither is it reaſonable to ſay, that thoſe Rites that were uſed in <hi>beſtowing</hi> Gifts in the Primitive Times, ſhould be continued to ours for <hi>encreaſing</hi> them. 6. We read of a Sacrament to ſignifie the <hi>gift</hi> of Grace, and another for the <hi>encreaſe</hi> of it, why not two Sacraments in reſpect of <hi>gifts</hi> alſo for thoſe diſtinct ends.</p>
+               </div>
+               <div n="4" type="objection">
+                  <p>
+                     <label>
+                        <hi>Obj.</hi> 4.</label> This gives Countenance unto the <hi>Papiſts</hi> extream Unction, and condemns our Reformed Churches for rejecting it.</p>
+                  <div n="1" type="answer">
+                     <p>
+                        <label>Anſ. 1.</label> 
+                        <hi>The Church of</hi> Rome <hi>retains almost all Ordinances, only ſhe hath perverted them, — as ſhe hath perverted this from being an Ordinance of reſtoring Health, and forgiving temporary Guilt of particular Sins, to become a Sacrament of Ju<g ref="char:EOLhyphen"/>ſtification and Forgiveneſs of all Sins, and ſo a Seal of the Covenant of Grace, and that not for the Sick, but for all dying Perſons when paſt Reco<g ref="char:EOLhyphen"/>very, in which caſe it ſhould not be uſed.</hi>
+                     </p>
+                     <p>
+                        <label>
+                           <hi>Repl.</hi> 1.</label> Though the Church of <hi>Rome</hi> make an Image of every Ordinance of Chriſt, it cannot be ſaid to retain all Chriſt's Ordinan<g ref="char:EOLhyphen"/>ces, and its retaining ſome, argues not that all their Ordinances are Chriſt's.</p>
+                     <p>
+                        <label>2.</label> If the Church of <hi>Rome</hi> uſe Unction to a ſick Perſon, though <hi>in articulo mortis,</hi> how doth ſhe pervert it, for there's nothing in the Text that excludes any ſick Perſon from the uſe of it? And if the ſaid Perſon may be Prayed with, and for, why not Anointed too? For
+<pb n="13" facs="tcp:99775:7"/> how many of ſuch as are apprehended to be in a dying condition do recover notwithſtanding? And how much the rather ſhould <hi>
+                           <g ref="char:V">Ʋ</g>nction</hi> be uſed to ſuch, if one end be for the removal of temporary Guilt, that the Decumbent may not depart under it.</p>
+                     <p>
+                        <label>3.</label> How come Sacraments for Forgiveneſs of Sins to be of two kinds; ſome for Forgive<g ref="char:EOLhyphen"/>neſs of <hi>all</hi> Sins, and ſome for Forgiveneſs of <hi>ſome</hi> only? Where there is a Sacrament for Forgiveneſs of all, there needs none for For<g ref="char:EOLhyphen"/>giveneſs of ſome; if Chriſt in his Wiſdom had Ordained ſo, no doubt but He would have Or<g ref="char:EOLhyphen"/>dained the Repetition of Baptiſm as Tempo<g ref="char:EOLhyphen"/>rary Guilt ſhould be contracted.</p>
+                     <p>
+                        <label>4.</label> If the Forgiveneſs here ſpoken of be Soul-ſaving from Guilt, it muſt belong to the Covenant of Grace, and the <hi>Papiſts</hi> muſt be right in making it a Sacrament of Juſtification, and muſt be of ſpecial uſe <hi>in articulo mortis,</hi> al<g ref="char:EOLhyphen"/>lowing it to be inſtituted for the above-ſaid end and purpoſe.</p>
+                     <p>
+                        <label>5.</label> Who knows when a ſick Perſon is paſt Recovery? If he be ſo, (1.) Is he not to be prayed for, and with, by the Elders? (2.) May not he be under Temporary Guilt? And is there not need enough of Forgiveneſs to him in that reſpect? (3.) And why ſhould not <hi>all</hi> means be uſed for Recovery, eſpecially by an Ordinance, whileſt there's Life there's hope. (4.) Its becoming <hi>extream</hi> Unction, is <hi>praeter intentionem Agentis;</hi> ſome (as is here granted) do die, and ſo far the Unction Adminiſtred by Proteſtants muſt be <hi>extream</hi> Unction.</p>
+                     <pb n="14" facs="tcp:99775:8"/>
+                     <p>
+                        <label>6.</label> There will need in this caſe a <hi>Directory</hi> with a double Catalogue of Diſeaſes, to tell in which Unction ſhould be applied, and in what Caſes not; as it may be Queried whether its to be uſed in <hi>Acute</hi> Diſeaſes only, or in <hi>Chronical</hi> al<g ref="char:EOLhyphen"/>ſo? eſpecially ſuch as are known to be in<g ref="char:EOLhyphen"/>curable for the moſt part, as in <hi>Pthiſis, Gout, Stone, Dropſie, &amp;c.</hi> And whether if uſed, it may be repeated often, while the Patient is long under a lingering, languiſhing condition? Whether ſo often as the Elders pray with the Patient they may anoint? Whether if the Phyſician pronounce the Diſeaſe Mortal, any Unction at all ought to be applied? What ſhould be done in caſes of <hi>Diliriums</hi> and Di<g ref="char:EOLhyphen"/>ſtractions? In caſe alſo of Lameneſs, Dumb<g ref="char:EOLhyphen"/>neſs, Wounds, <hi>&amp;c.</hi> there will a hundred Que<g ref="char:EOLhyphen"/>ries ariſe neceſſary to be reſolved, when to Anoint, and when not, if it may not be uſed in all Caſes of Sickneſs.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>
+                        <label>Anſ. 2.</label> 
+                        <hi>The Reformed Churches ſeeing that ſuch a Sacrament could not be, and this muſt needs be a perverſion of it, did juſtly reject it as they uſed it; only in rejecting it they went too far (as in ſome other things) even denying it to have that uſe of reſtoring the Sick, as a Seal of the Pro<g ref="char:EOLhyphen"/>miſe, and an indefinite means to convey that Bleſſing, which God in Mercy hath appointed it to be.</hi>
+                     </p>
+                     <p>
+                        <label>Repl.</label> What is here acknowledged to be done by the Reformed Churches, in rejecting Un<g ref="char:EOLhyphen"/>ction as a Sacrament upon all accounts, is moſt Juſtifiable, neither have they gone too far herein, nor in laying aſide Four more of the Popiſh pretended Sacraments; neither
+<pb n="15" facs="tcp:99775:8"/> doth it appear by all that hath been ſaid, that Unction hath now any <hi>Sacramental</hi> uſe in re<g ref="char:EOLhyphen"/>ſtoring of Health, or that any Promiſe here, or in the Scripture, is any more of Health, than of Food and Raiment, <hi>&amp;c.</hi> or hath any Seal annexed to it any more than Promiſes of outward Good have their reſpective Seals: Neither is there any real Forgiveneſs of Sin, Temporal or Eternal, but what belongs to, and is beſtowed by <hi>that</hi> Covenant of Grace; therefore there can be no Seals of it, but what are Seals of <hi>that</hi> Covenant; and if Anointing be a Seal of a Promiſe that belongs not to the Covenant of <hi>Grace,</hi> it muſt be a Seal of a Promiſe made in the Covenant of <hi>Works,</hi> or elſe quite out of Doors.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="4" type="section">
+               <p>
+                  <label>§. 4.</label> The Apoſtle <hi>James,</hi> in this Chapter, from <hi>ver.</hi> 7. Exhorting and directing Chriſti<g ref="char:EOLhyphen"/>ans to a holy and exact Converſation in all ſorts of external Conditions, Proſperity and Adverſity; the things that he is particular in eſpecially, are 1. Patience in Suffering. 2. A due Reverence of the Great Name of GOD in our ordinary Converſation, <hi>ver.</hi> 12. where he doth not forbid all kind of Swearing, but Swearing by any Creature, and Swearing in common Diſcourſe, according to the Words and Senſe of our Lord Jeſus Chriſt, <hi>Mat.</hi> 5.34. 3. He ſhews what Duty is moſt ſuitable to an <hi>afflicted</hi> Condition, <hi>viz. Prayer;</hi> to a proſpe<g ref="char:EOLhyphen"/>rous Condition, Singing of <hi>Pſalms;</hi> and in<g ref="char:EOLhyphen"/>ſiſts more largely upon the former of theſe two, <hi>viz.</hi> betaking our ſelves to <hi>Prayer</hi> in <hi>Affliction</hi> of any ſort or kind; [<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>doth any among you ſuffer evil?</hi>] Its to be un<g ref="char:EOLhyphen"/>derſtood
+<pb n="16" facs="tcp:99775:9"/> of afflictive Evils of any ſort; and be<g ref="char:EOLhyphen"/>cauſe we are ſo incident to Sickneſſes and bo<g ref="char:EOLhyphen"/>dily Infirmities, which do moſt commonly of all others, unfit and indiſpoſe us to Pray, he exhorts Chriſtians as follows, either to ſend for the Elders of the Church to Pray with the Sick, <hi>ver.</hi> 14. or Pray one for another, <hi>ver.</hi> 16. Whence the Apoſtle's direction is, 1. General, in caſe of any Affliction, to Pray. 2. Particu<g ref="char:EOLhyphen"/>lar, in caſe of Affliction by Sickneſs, that a Perſon is indiſpoſed, and unfitted to Pray, to ſend for the Elders to pray with him, or to get other Chriſtians to pray with him, (in caſe Elders be not to be had) for <hi>the fervent Prayer</hi> (ſaith he) <hi>of any holy Man, prevails much.</hi> And this he ſaith, leſt we ſhould think that he laid all the ſtreſs of obtaining the ſick Man's Benefit upon the Elderſhip, he ſaith no, for a Holy Chriſtians Prayer prevails much for his Brother or Neighbour, and in the ſame way and kind as the Elders, both in reſpect of Healing and Forgiveneſs, <hi>ver.</hi> 16.</p>
+            </div>
+            <div n="5" type="section">
+               <div n="1" type="subsection">
+                  <p>
+                     <label>§. 5.</label> Now from the Text it doth appear, That the Apoſtle <hi>James</hi> intends not an Inſti<g ref="char:EOLhyphen"/>tution of any <hi>Sacramental</hi> Ordinance in the Church, 1. From the manifeſt deſign of the Apoſtle, appearing from the Text and Con<g ref="char:EOLhyphen"/>text, which is to recommend to Chriſtians the uſe of <hi>Prayer</hi> in the Day of Affliction, perfor<g ref="char:EOLhyphen"/>med by our ſelves, or others for us in Faith, <hi>ver.</hi> 15. in reſpect of outward or ſpiritual Wants, <hi>ver.</hi> 14. This Duty is firſt generally recommended as a great and ſpecial means by way of Duty, to betake our ſelves unto, and moſt
+<pb n="17" facs="tcp:99775:9"/> ſuitable to the Day of Affliction, as Singing forth God's Praiſes is moſt ſuitable to the Day of proſperous Enlargements.</p>
+               </div>
+               <div n="2" type="subsection">
+                  <p>
+                     <label>2.</label> That in Caſes of greater Diſtreſs, eſpe<g ref="char:EOLhyphen"/>cially in ſuch of bodily Diſtempers, when we lie under Pains, and Languiſhments of Body and Spirits, from which alſo ariſe much dark<g ref="char:EOLhyphen"/>neſs, and diſquietments of Heart and Conſci<g ref="char:EOLhyphen"/>ence, as alſo from many Temptations of the evil One, as to our Spiritual State, inſomuch that the poor Decumbent ſaith (when thoſe about him preſs the Duty here exhorted to in general, that he ſhould betake himſelf to Prayer) I cannot Pray by reaſon of my great Pain, or by reaſon of Unbelief, <hi>&amp;c.</hi> you muſt Pray with me, and for me <hi>[Pray one for another] v.</hi> 16. I confeſs I have been a ſinful, unbelieving, hy<g ref="char:EOLhyphen"/>pocritical Wretch, if God mark Iniquity, all this, and much more is leſs than I deſerve, and I have now many Fears and Doubts lie upon me, <hi>[If he have ſinned] i. e.</hi> Suppoſing that he labours under diſtreſs of Conſcience for Sin in general, or for any Sin in particular, then ſaith the Apoſtle, in this caſe, call in the beſt help you can, [its not ſaid, as is ſuggeſted by our Author, if his Diſeaſe be incurable, and he be near Death, then its too late] but let the Sickneſs be what it will, curable, or in<g ref="char:EOLhyphen"/>curable, threatning approaching Death, or not; in this, and ſuch like Diſtreſſes ſend for the Elders of the Church (as well as for the Phyſician, which you are ready to do) that they may counſel, comfort, and Pray with, and for the poor Patient, with this Caution, not to neglect the uſe of lawful and ordinary
+<pb n="18" facs="tcp:99775:10"/> Medicinal Means [Anointing him] one Re<g ref="char:EOLhyphen"/>medy is here ſpecified by a <hi>Synechdoche,</hi> uſual in Scripture, of a part for the whole; for you ſhould not uſe Medicines as <hi>Aſa</hi> did, truſting to the Phyſician more than to God, nor uſe them in a heatheniſh manner, without a So<g ref="char:EOLhyphen"/>lemn Application to the God of Health and Sickneſs, the Father of Spirits, that caſteth down, and raiſeth up, that killeth and ma<g ref="char:EOLhyphen"/>keth alive, therefore uſe your Remedies in the Name of the Lord, according to <hi>Col.</hi> 3.17. In Obedience <hi>to,</hi> for the Honour <hi>of,</hi> and in the Fear of our Lord Jeſus Chriſt, waiting patient<g ref="char:EOLhyphen"/>ly on his Will and Pleaſure, in the uſe of all ſpiritual, and lawful outward Means, for a Bleſſing upon them. The Motives that the Apoſtle uſeth to preſs this Duty, <hi>(N. B.)</hi> are laid upon the account of Prayer, not upon the account of Anointing, as the expreſs end of the Patient's ſending for the Elders, is to Pray with him, Is any of you ſick, what ſhould he do, ſhould he ſend for the Phyſician? Yes. Or uſe any Phyſick? Yes. But let him in the chief place go unto God, <hi>ſend for the El<g ref="char:EOLhyphen"/>ders</hi> rather in the firſt place [not in the laſt, when the Caſe is paſt Remedy, and hopeleſs, as is uſual] that <hi>they may pray with</hi> the Decum<g ref="char:EOLhyphen"/>bent for a Bleſſing upon means; then uſe the Phyſician's Remedies, <hi>anoint him,</hi> if he have a Palſie, and weak Limbs, or if the Caſe be otherwiſe, give a Vomit, a Purge, a Cordi<g ref="char:EOLhyphen"/>al, <hi>&amp;c.</hi> in the Name of the Lord: And this is to uſe Phyſick as Chriſtians ought to do, and then he ſaith not, ſend to the Elders to anoint him, or to give him Phyſick (though it may
+<pb n="19" facs="tcp:99775:10"/> be they did, and its very probable) but to Pray with him, and ſo Anoint him [<gap reason="foreign" resp="#OXF" extent="1 word">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>] <hi>Anointing him,</hi> or applying ſuitable Remedies, <hi>in the Name of the Lord.</hi> So that the Appli<g ref="char:EOLhyphen"/>cation of Remedies (whether by themſelves, or others) is ſpoken of but as ſubordinate Means to be uſed, but not to be depended upon, as any way effectual to anſwer the Decumbents ends, without the Bleſſing of God.</p>
+               </div>
+            </div>
+            <div n="6" type="section">
+               <p>
+                  <label>§. 6.</label> Now for the <hi>Motives,</hi> they are an<g ref="char:EOLhyphen"/>nexed to the uſe of Prayer all along, not to the uſe of Oil, I ſhall but briefly name them.</p>
+               <list>
+                  <item>1. The great prevalency of <hi>Prayer</hi> (ordina<g ref="char:EOLhyphen"/>rily) made in Faith to recover a ſick Perſon; he lays not the Efficacy upon <hi>Oil,</hi> or the Re<g ref="char:EOLhyphen"/>medy, but ſaith <hi>the Lord</hi> being called upon, <hi>He ſhall raiſe him up.</hi>
+                  </item>
+                  <item>2. The prevalency of the <hi>Prayer</hi> of Faith to bring into the Soul the light of Pardon, and Forgiveneſs, and of Spiritual Peace and Com<g ref="char:EOLhyphen"/>fort.</item>
+                  <item>3. Of all means <hi>it</hi> doth upon Experience prevail moſt, <hi>it</hi> is moſt Effectual when per<g ref="char:EOLhyphen"/>formed in Faith, with great Fervency and Af<g ref="char:EOLhyphen"/>fection, by, or for a poor broken-hearted, humble, and afflicted Believer, by the Elders, or Brethren, <hi>ver.</hi> 16.</item>
+                  <item>4. And laſtly, He uſeth the inſtance of <hi>Eli<g ref="char:EOLhyphen"/>as,</hi> who was ſo eminently prevailing with God in <hi>Prayer,</hi> for great things of a Temporal Na<g ref="char:EOLhyphen"/>ture, on the behalf of others, who lay under a Judgment, for the reverſe of the ſaid Judg<g ref="char:EOLhyphen"/>ment and Salvation from it; which prevalen<g ref="char:EOLhyphen"/>cy
+<pb n="20" facs="tcp:99775:11"/> he doth not aſcribe to Unction, nor ſeems ſo much to aſcribe to his extraordinary Pro<g ref="char:EOLhyphen"/>phetick Spirit, as to the <hi>Prayer of Faith,</hi> there<g ref="char:EOLhyphen"/>fore fetcheth an Argument there-from, to pro<g ref="char:EOLhyphen"/>voke and incite them to <hi>Pray</hi> for one another, or ſend to the Elders to <hi>Pray</hi> with ſuch as were in Affliction.</item>
+               </list>
+            </div>
+            <div n="7" type="section">
+               <p>
+                  <label>§. 7.</label> The Second Argument to prove that the Apoſtle had no intent <hi>to Ordain any Sa<g ref="char:EOLhyphen"/>cramental Rite, or Church Ordinance</hi> is this; If it had been ſo, he would not have changed the Elementary Ceremony from what Chriſt had firſt Ordained to be uſed after his Reſur<g ref="char:EOLhyphen"/>rection, <hi>Mark</hi> 16.18. where it was <hi>Laying on of hands:</hi> Which Ceremony we read of to be twice uſed in Recovery of the Sick, once in Curing <hi>Paul</hi>'s Blindneſs by <hi>Ananias,</hi> and ano<g ref="char:EOLhyphen"/>ther time by <hi>Paul,</hi> in Curing the Father of <hi>Pub<g ref="char:EOLhyphen"/>lius,</hi> of a Fever and Bloody Flux, <hi>Acts</hi> 28.8. Now ſeeing all the Apoſtles ſtood by the Ele<g ref="char:EOLhyphen"/>mentary Part of Chriſt's Inſtitution, which He Ordained both in Baptiſm, and the Lord's Supper, it is not in the leaſt probable, that the Apoſtle <hi>James</hi> would make any ſuch alter<g ref="char:EOLhyphen"/>ation in a <hi>Sacramental</hi> Inſtitution, (nor was led by the Holy Ghoſt ſo to do) ſo as to change the Elementary Part from one kind to another, from <hi>Laying on of Hands,</hi> to <hi>Anointing with Oil.</hi>
+               </p>
+               <p>
+                  <label>Obj.</label> 
+                  <hi>The Twelve Apostles uſed Anointing with Oil in miraculous Curing, therefore Inſtituted by Chriſt,</hi> Mark 6.13.</p>
+               <pb n="21" facs="tcp:99775:11"/>
+               <p>
+                  <label>Anſ.</label> We find not that that particular Ce<g ref="char:EOLhyphen"/>remony is there, or any where elſe enjoyned or recommended to them by Chriſt, neither is there ground enough to think, that of Laying on of Hands was ſo, <hi>Mark</hi> 16.18. The words there are a Promiſe of miraculous Gifts, ſome of which for inſtance are enumerated, as <hi>Caſt<g ref="char:EOLhyphen"/>ing out Devils, ſpeaking with new Tongues, taking up Serpents,</hi> without hurt, <hi>and if they ſhould drink Poiſon, it ſhould not hurt, or if they did but lay their Hands on the Sick, they ſhould recover.</hi> Our Author is right in this, that the working by extraordinary Gifts was not confined to the uſe of any one Rite or Ceremony, or to ſome indefinitely, for ſometimes thoſe mira<g ref="char:EOLhyphen"/>culous Works were wrought without any, as in the Text of <hi>Mark</hi> 16. ſometimes by only Speaking, ſometimes by Napkins, <hi>&amp;c. Acts</hi> 3.7,16. &amp; 14.10. &amp; 16.18. &amp; 9.17,34,40. &amp; 28.8. And accordingly, when they wrought by this Gift, they ſometimes uſed ſome ſmall Rite, ſuch as touching with the Hand, or Anointing with Oil, (as Chriſt did the Eyes of the Blind with Clay and Spittle) which Ju<g ref="char:EOLhyphen"/>dicious Perſons could not think had any natu<g ref="char:EOLhyphen"/>ral Virtue to produce the Effect, that ſo all that were Witneſſes thereof could not but ac<g ref="char:EOLhyphen"/>knowledge, that what was wrought was im<g ref="char:EOLhyphen"/>mediately from God, and could not be done any other way.</p>
+               <p>Hence the Twelve Apoſtles, on their firſt Miſſion, in healing the Sick, took a Rite that was in ordinary uſe among the <hi>Jews</hi> (as a weak and common Medicine among them, and in thoſe <hi>Eaſtern</hi> Parts, known to have no great
+<pb n="22" facs="tcp:99775:12"/> Efficacy in it to be admired, not ſo much as a <hi>Carduus Poſſet</hi> with us) and this is the Cir<g ref="char:EOLhyphen"/>cumſtance demonſtrating their Miraculous Gift, <hi>Mark</hi> 6.13. that as they caſt out De<g ref="char:EOLhyphen"/>vils, whether by any Rite is not mentioned, ſo they Recovered the Sick, only Anointing them with Oil. And herein Chriſt's Miracles, and his Apoſtles differed from thoſe ſeeming ones wrought by Charms, and by a Diabolick Confederacy; that the Devil ſtrictly ties up his Operators to all the Circumſtances of his Impoſed Rites, but thus Chriſt did not.</p>
+            </div>
+            <div n="8" type="section">
+               <p>
+                  <label>§. 8.</label> The Anointing ſpoken of by <hi>James,</hi> doth not appear by any, or all the Reverend Author's Arguments, not to be a Rite atten<g ref="char:EOLhyphen"/>ding an extraordinary Gift; For it is manifeſt, that during the Lives of the Apoſtles, ſuch extraordinary Gifts were in the Churches, 1 <hi>Cor.</hi> 12.4,9,10. And it was during <hi>that</hi> time that the Apoſtle muſt write theſe things; and if many ordinary Brethren wrought, and ſpake by them, then why not the Elders much more? And that ſome ſuch were beſtowed on <hi>Timothy</hi> in the uſe of the Rite of Laying on of Hands is not to be doubted, and if it was in uſe to lay Hands on all Elders of Churches (as many ſay it was, and this Author making it a Sacrament) why ſhould not all Elders have this Gift, eſpecially for the good of the Churches, a great part of their Office lying in Viſiting the Sick? It ſeems to be ſtrange, what was the Reaſon why the Apoſtles at their firſt Miſſion uſed <hi>
+                     <g ref="char:V">Ʋ</g>nction,</hi> and we read not of the uſe of it afterwards. I conceive it was becauſe the
+<pb n="23" facs="tcp:99775:12"/> Lord Jeſus, before his Aſcenſion, mentioned another, <hi>Mark</hi> 16.18. though not enjoyning it; but his mentioning it ſeem'd to intimate to them, that of the <hi>two,</hi> He rather approved of that of Laying on of Hands in Healing of the Sick, than of <hi>
+                     <g ref="char:V">Ʋ</g>nction.</hi>
+               </p>
+            </div>
+            <div n="9" type="section">
+               <p>
+                  <label>§. 9.</label> Yet we are not of the Opinion, that <hi>James</hi> intends Healing by an extraordinary Gift: But therefore it follows not, that the Unction mentioned by him was a Divine In<g ref="char:EOLhyphen"/>ſtitution, an Ordinance, yea <hi>Sacrament,</hi> (as our Author would have it) to continue in the Churches, as we have abundantly evinced: But it was a third Thing, only an Inſtance of <hi>ordinary Means, with Direction to a due Chriſtian Way and Manner of the Adminiſtration there<g ref="char:EOLhyphen"/>of.</hi>
+               </p>
+               <p>That Anointing with Oil was frequently uſed by the <hi>Jews</hi> to Exhilarate and Refreſh, doth appear by Scripture, and the not uſing it was a ſign of Mourning, 2 <hi>Sam.</hi> 14.2. <hi>Pſal.</hi> 23.5. <hi>Mat.</hi> 6.17. And therefore they did uſe it to the Sick as a common Medicine, that did at leaſt refreſh and revive the weak and diſpirited Patient.</p>
+               <p>Dr. <hi>Lightfoot</hi> tells us from the <hi>Talmud,</hi> (which upon ſearch proves to be ſo)
+<q>That the Jews were wont to Anoint upon a three-fold Account.
+<p>1. For Ornament, which was forbidden on Days of Expiation, and was not uſed on Days of Mourning.</p>
+                     <pb n="24" facs="tcp:99775:13"/>
+                     <p>2. That they Anointed with Oil for Healing of Diſeaſes; hence (ſaith the Dr.) the Apoſtles Counſel as referring to this Medicinal Practice, is, That it be improved to the beſt advantage, and therefore advi<g ref="char:EOLhyphen"/>ſeth to ſend for the Elders of the Church to do it, not that there was any more in their doing it than in anothers, but that with the applying this Corporal Medicine, they might Pray with the Patient, and ap<g ref="char:EOLhyphen"/>ply Spiritual Phyſick, <hi>&amp;c.</hi> which is as much in our Nation as if a Patient taking Phy<g ref="char:EOLhyphen"/>ſick, ſhould ſend for the Miniſter to Pray with him.</p>
+                     <p>3. It was uſed alſo by the ill <hi>Jews,</hi> with Charming and Muttering over the Pati<g ref="char:EOLhyphen"/>ent, <hi>&amp;c.</hi> whereupon the Doctor thinks it may be ſuppoſed alſo, That the Apoſtle ob<g ref="char:EOLhyphen"/>ſerving this Abuſe in ſome, of an ordina<g ref="char:EOLhyphen"/>ry and good Medicine, directs Chriſtians to a quite contrary way, to ſend for the Elders of the Church, <hi>&amp;c.</hi> See <hi>Harmon.</hi> p. 333.</p>
+                  </q>
+               </p>
+            </div>
+            <div n="10" type="section">
+               <div type="introduction">
+                  <p>
+                     <label>§. 10.</label> In a Word, If <hi>
+                        <g ref="char:V">Ʋ</g>nction</hi> of the Sick be uſed otherwiſe than the <hi>third</hi> of them before-mentioned, <hi>viz.</hi> Diabolick, it muſt be upon one of theſe following accounts.</p>
+                  <list>
+                     <item>1. <hi>As a Rite annexed to a Gift of miraculous Healing:</hi> Thus its not intended here, as our Learned Author would prove by many Argu<g ref="char:EOLhyphen"/>ments, but hath fallen ſhort in his deſign, as hath been proved; though we judge alſo it was not <hi>ſuch <g ref="char:V">Ʋ</g>nction,</hi> that the Apoſtle intends.</item>
+                     <item>2. Or as a <hi>Sacramental Rite,</hi> or Symbol, to continue in the Church.</item>
+                     <pb n="25" facs="tcp:99775:13"/>
+                     <item>3. <hi>To produce a natural Effect, as other Me<g ref="char:EOLhyphen"/>dicaments.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div n="1" type="subsection">
+                  <p>If it be ſaid we are to uſe it in the firſt Senſe, 1. There muſt be Faith of Miracles, both in the Anointer and Anointed. 2. If ſo, it will have certain effect on every one to whom it is duly Adminiſtred, for ſo we find it had in the pri<g ref="char:EOLhyphen"/>mitive Times, <hi>Mark</hi> 6.13. 3. The miracu<g ref="char:EOLhyphen"/>lous Gift being ceaſed, and the Faith thereof, its much folly to uſe the Rite at all.</p>
+               </div>
+               <div n="2" type="subsection">
+                  <p>
+                     <label>2.</label> If it be pleaded for as our Author doth, as a Symbolick and <hi>Sacramnetal Rite Inſtituted for continuance</hi> in the Church, we have ſhew'd that it cannot be grounded upon this place, nor on any other, and many Abſurdities will follow on ſuch an Aſſertion. And it muſt ne<g ref="char:EOLhyphen"/>ceſſarily follow, that the other Primitive Ce<g ref="char:EOLhyphen"/>remonies, <hi>viz. Impoſition of Hands, and waſh<g ref="char:EOLhyphen"/>ing of Feet,</hi> are alſo Sacraments to continue, whence we ſhall have Five Sacraments in the Churches, and come within Two of the Pa<g ref="char:EOLhyphen"/>piſts number of Sacraments.</p>
+               </div>
+               <div n="3" type="subsection">
+                  <p>
+                     <label>3.</label> If <hi>
+                        <g ref="char:V">Ʋ</g>nction</hi> be uſed on the third account, as a natural Remedy, then it muſt be uſed in ſuch a meaſure and way, as that it may have a Medicinal Effect; touching or croſſing the Body with the Finger dipt in a little Oil will not do, it muſt be rubb'd, and chaf'd in to the part affected, or ſome principal Part muſt be well ſuppled with it, and its without doubt, that its no Medicine in our Country, there are many found to be much better, inward and out<g ref="char:EOLhyphen"/>ward, than to Anoint the Body with Oil Olive, leſs or more.</p>
+               </div>
+            </div>
+            <div n="11" type="section">
+               <pb n="26" facs="tcp:99775:14"/>
+               <p>
+                  <label>§. 11.</label> Upon the like, if not greater ground, that <hi>
+                     <g ref="char:V">Ʋ</g>nction</hi> of the Sick, or <hi>Impoſition of Hands</hi> are pleaded to be ſtanding Sacraments in the Churches, may alſo <hi>Waſhing of Feet,</hi> it being profeſt to be ſuch by the <hi>Papists,</hi> who alſo plead (from a wrong Senſe of Scripture) that it was Inſtituted by Chriſt's Command, and Ex<g ref="char:EOLhyphen"/>emplary Practice, <hi>John</hi> 13.12,15. That it was a Symbol of inward Grace, <hi>&amp;c.</hi> and that it was afterward practiſed in the Churches, 1 <hi>Tim.</hi> 5.10. Notwithſtanding all which plauſible Pleas, it cannot be acknowledged to be any <hi>Stated Church Ordinance</hi> Inſtituted by Chriſt. For waſhing of Feet was as frequent<g ref="char:EOLhyphen"/>ly uſed in that Country, as Anointing with Oil, it being a part of that reſpective Enter<g ref="char:EOLhyphen"/>tainment which they uſually gave to Friends coming to them which they had honour for; when the Perſon of Eſteem, or Gueſt came in, they called the Servant to bring in Water to waſh his Feet, and it being the Servants buſi<g ref="char:EOLhyphen"/>neſs, it was looked upon as Inferiour and Ser<g ref="char:EOLhyphen"/>vile, and doing thereof by any Perſon of Rank or Degree, was looked upon as a very great denial of himſelf, and Humility. According<g ref="char:EOLhyphen"/>ly the Lord Jeſus Chriſt taught his Diſciples Humility thereby, ſo that it was uſed by Him as <hi>didactical,</hi> not by way of Inſtitution of it for a Standing Ordinance in the Church. For Jeſus Chriſt being in <hi>Bethany</hi> two Days before the Feaſt of the Paſſover, and Supping there, <hi>Mat.</hi> 26.6. <hi>Mark</hi> 14.3. where <hi>Judas</hi> was, and from whence he went out to betray Him: After Supper (<hi>John</hi> 13.4,5.) <hi>He took Wa<g ref="char:EOLhyphen"/>ter
+<pb n="27" facs="tcp:99775:14"/> and a Towel, and waſhed his Diſciples Feet,</hi> which they wondred at, that the Maſter ſhould do that which the moſt inferiour Ser<g ref="char:EOLhyphen"/>vants were wont to do, and knew not the meaning of it, <hi>ver.</hi> 7. [which Chriſt would have told them, had He intended it for a Sa<g ref="char:EOLhyphen"/>cramental Action, as He did always in that caſe] <hi>Peter</hi> in particular, in honour to his Maſter, refuſeth to let Him waſh his Feet, <hi>ver.</hi> 6. Chriſt tells him, <hi>If He doth not waſh him,</hi> [meaning in his Blood, as to Juſtification and Sanctification, according to that, <hi>Heb.</hi> 10.22.] <hi>he had no part in Him,</hi> [<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Imports <hi>in</hi> me ſometimes, or <hi>of</hi> me,] whereupon <hi>Peter</hi> deſires to be waſhed all over by Chriſt at this waſhing; miſunderſtanding the meaning of Chriſt, thinking He had ſpoke of his preſent waſhing, for Chriſt had ſaid, <hi>ver.</hi> 7. <hi>Thou knoweſt not now, but thou ſhalt know afterward, i. e.</hi> after He had done waſhing their Feet, <hi>ver.</hi> 14, 15, 16 And <hi>Peter</hi> ſeems to apprehend that Chriſt intended a Sacramental Waſhing, ſignifying the waſhing away of Sin, therefore ſaith he, waſh my Hands, <hi>&amp;c.</hi> No, ſaith Chriſt, <hi>He that is Sacramentally waſhed, its ſig<g ref="char:EOLhyphen"/>nificant enough if it be but of a part,</hi> it holds forth the cleanſing of the whole, and ye are as Individuals clean, but not every one; the reaſon of which Saying is given <hi>ver.</hi> 11. he meant <hi>Judas</hi> was not clean. Now after he had held <hi>Peter</hi> and the Diſciples in an <hi>aenigma<g ref="char:EOLhyphen"/>tical</hi> Diſcourſe concerning this Action of His, during the time thereof, <hi>ver.</hi> 12. He takes his Garments, ſits down, and acquaints them with the direct Reaſon, as if He ſhould ſay, You are
+<pb n="28" facs="tcp:99775:15"/> apt to think this or that, but I will tell you the true and direct Reaſon is to teach you Humili<g ref="char:EOLhyphen"/>ty by my Example; you ought to do all Acts of Service one for another, in all lowlineſs of Mind, as your Lord and Maſter hath done, in taking upon Himſelf the form of a Servant for your ſakes, ſee <hi>ver.</hi> 13, 14, 15, 16, 17. and concludes, ſaying, <hi>Now ye understand theſe things its well if ye do them,</hi> as it were foretelling how much a Spirit of Pride and Ambition, which He had oft rebuk'd, would be too apt to pre<g ref="char:EOLhyphen"/>vail in them, and in Miniſters of future Ages, who would Lord it over the Churches, and one another, ſtriving who ſhould be greateſt. See Chriſt's full meaning of this place, by com<g ref="char:EOLhyphen"/>paring with it <hi>Mat.</hi> 18.1,2. <hi>Luke</hi> 22.24,25,27. <hi>Mat.</hi> 23.8,10,11. <hi>Mark</hi> 9.34,36. Such another Sacrament, the waſhing the Saints Feet, is numbred among the qualifications of a Dea<g ref="char:EOLhyphen"/>coneſs, 1 <hi>Tim.</hi> 5.10. becauſe it was an Argument of her Humility and readineſs to ſerve the Saints in any inferiour offices.</p>
+            </div>
+            <div n="12" type="section">
+               <p>
+                  <label>§. 12.</label> Finally, our Lord Jeſus Chriſt, who is Lord over his own Houſe, as a Son, hath not left his Churches at a loſs about ſo great a con<g ref="char:EOLhyphen"/>cernment as his <hi>Sacraments and Seals</hi> of the Co<g ref="char:EOLhyphen"/>venant; what of all the Rites uſed, He hath Inſtituted as ſuch, and what not; for if He hath ſo left them, we labour under this Diffi<g ref="char:EOLhyphen"/>culty, Whether Chriſt hath Inſtituted Two Sacraments, or more? Whether Baptiſm and the Lord's Supper be only Sacraments Inſtitu<g ref="char:EOLhyphen"/>ted by Him, or whether <hi>Impoſition of Hands, Anointing the Sick,</hi> and <hi>Waſhing of Feet,</hi> (ſigni<g ref="char:EOLhyphen"/>ficant
+<pb n="29" facs="tcp:99775:15"/> Ceremonies alſo, uſed by Chriſt and his Apoſtles) be alſo <hi>Sacraments</hi> now continued in the Churches? But Chriſt hath been ſo far from leaving us unreſolved in theſe great Points, That of all the Symbolick Ceremonies, or any that ſeem ſo, which were in uſe in the Primitive Times upon any account, He hath given certain Notes or Characteriſtick Signs by which we know which of them He hath Ordai<g ref="char:EOLhyphen"/>ned to continue in the Churches to the end of the World, and thoſe are Three eſpecially: 1. That the thing ſignified doth ſtill remain, together with the neceſſary end and uſe of it to the Churches, and all the Members thereof; and ſo it is in Baptiſm, and the Lord's Supper; but 'tis not ſo in the other (two thereof eſpeci<g ref="char:EOLhyphen"/>ally) Conferring of Gifts, and Miraculous Heal<g ref="char:EOLhyphen"/>ing being ceaſed. 2. That in thoſe which He hath appointed to be Standing Symbols in the Church, He hath Ordained Solemn Words to be uſed reſpectively, in the Adminiſtration and Application of the ſaid Rites and Elements, adapted to the diſtinct Significancy of each one; this is found in Baptiſm and the Lord's Supper, and in none of the reſt. 3. That which is a diſtinguiſhing Mark beyond diſpute, is this, That the Lord Jeſus Chriſt hath expreſly con<g ref="char:EOLhyphen"/>tinued them to the end of the World, <hi>Mat.</hi> 28.19,20. 1 <hi>Cor.</hi> 11.26. <hi>viz.</hi> Baptiſm and the Lord's Supper, which cannot be ſaid of any of the other Three fore-named Rites, and therefore we call them only Primitive Rites, uſed only for ſome ſpecial Reaſons appropriate to thoſe Times, and not continued as Inſti<g ref="char:EOLhyphen"/>tuted Ordinances, or Symbols and Seals of
+<pb n="30" facs="tcp:99775:16"/> the Covenant. The Things then ſignified by them being ceaſed, no ſtated and fixed Words of Adminiſtration ſtanding upon Record, and no expreſs continuance of them to the coming of Chriſt, or end of the World: Therefore we conclude as there remains but Two Sacra<g ref="char:EOLhyphen"/>ments, ſo there are no more Symbolick Rites Inſtituted for Standing Ordinances in the Churches, all the reſt of Primitive Date and Uſe, being now Obſolete.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:99775:16"/>
+            <head>Books Printed for <hi>Nath. Hiller,</hi> at the <hi>Princes Arms</hi> in <hi>Leaden-hall-ſtreet,</hi> over against St. <hi>Mary Axe.</hi>
+            </head>
+            <list>
+               <item>THE Righteouſneſs of God through Faith, upon all, without difference, who Believe, in Two Sermons on <hi>Rom.</hi> 3.22. By the Late Reverend Mr. <hi>Nathanael Mather,</hi> Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel.</item>
+               <item>Batteries upon the Kingdom of Satan. By Mr. <hi>Cotton Mather,</hi> Author of the late Memo<g ref="char:EOLhyphen"/>rable Providences of Witchcraft, and of Earth<g ref="char:EOLhyphen"/>quakes Exemplified.</item>
+               <item>The Throne of Grace Diſcourſed of, from <hi>Heb.</hi> 4.16. By <hi>Robert Trayle,</hi> M. A. Miniſter of the Goſpel.</item>
+               <item>A Learned and Accurate Diſcourſe, concern<g ref="char:EOLhyphen"/>ing the Guilt of Sin, Pardon of that Guilt, and Prayer for that Pardon. By the Reverend Mr. <hi>Tho. Gilbert,</hi> lately deceaſed, at <hi>Oxford.</hi>
+               </item>
+               <item>Scripture Proof for ſinging Scripture Pſalms, Hymns, and Spiritual Songs. By <hi>E. H.</hi>
+               </item>
+               <item>The Conqueſts and Triumphs of Grace, be<g ref="char:EOLhyphen"/>ing a Narrative of the Succeſs of the Goſpel among the <hi>Indians</hi> in <hi>New-England.</hi> By <hi>Mat. Mahew.</hi>
+               </item>
+               <item>A Letter to Dr. <hi>Bates,</hi> in Vindication of the Dr. and my ſelf, neceſſitated by Mr. <hi>Williams</hi> Anſwer to Mr. <hi>Humphreys.</hi> By <hi>Steph. Lob.</hi>
+               </item>
+               <item>
+                  <hi>Pietas in Patriam:</hi> The Life of his Excel<g ref="char:EOLhyphen"/>lency Sir <hi>William Phipps,</hi> Knt. Late Captain General and Governour of <hi>New-England.</hi> Con<g ref="char:EOLhyphen"/>taining the Memorable Changes undergone, and Actions performed by him.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
